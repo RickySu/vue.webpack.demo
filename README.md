@@ -1,4 +1,4 @@
-# phpconftw
+# vue.js webpack demo
 
 > A Vue.js project
 
